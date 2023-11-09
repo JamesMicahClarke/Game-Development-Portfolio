@@ -9,7 +9,7 @@ Team Projects:
 
 Class Projects:
 
--Not Uploaded Yet
+-Lab2 --- Full Sail Logo Project
 
 Personal Projects:
 
