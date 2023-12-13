@@ -7,7 +7,7 @@ Team Projects:
 
 -Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
 
-Class Projects:
+Solo Projects:
 
 -Lab2 --- Full Sail Logo Project
 
