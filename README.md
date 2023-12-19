@@ -10,18 +10,31 @@ Team Projects:
 Solo Projects:
 -Scripts Added:
   -Artificial Intelligence
+  
   -Computer Graphics
+  
   -Computer Networks
+  
   -Computer Organization & Architecture
+  
   -Data Structures & Algorithms
+  
   -Engine Development
+  
   -Information & Database Systems
+  
   -Operating Systems
+  
   -Programming I
+  
   -Programming II
+  
   -Project & Portfolio I
+  
   -Project & Portfolio IV
+  
   -Software Engineering
+  
   -Systems Programming
 
 Personal Projects:
