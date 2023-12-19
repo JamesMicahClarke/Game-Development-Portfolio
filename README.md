@@ -8,8 +8,21 @@ Team Projects:
 -Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
 
 Solo Projects:
-
--Lab2 --- Full Sail Logo Project
+-Scripts Added:
+  -Artificial Intelligence
+  -Computer Graphics
+  -Computer Networks
+  -Computer Organization & Architecture
+  -Data Structures & Algorithms
+  -Engine Development
+  -Information & Database Systems
+  -Operating Systems
+  -Programming I
+  -Programming II
+  -Project & Portfolio I
+  -Project & Portfolio IV
+  -Software Engineering
+  -Systems Programming
 
 Personal Projects:
 
