@@ -1,11 +1,11 @@
 # Game-Development Portfolio
-Everything in this repo is a represemtation of the work I've done as a Game Developer.
+Everything in this repository is a represemtation of the work I've done as a Game Developer.
 
 Team Projects:
 
--Unseen: First acedemic team project. Completed in 3 months with 5 developers.
+    -Unseen: First acedemic team project. Completed in 3 months with 5 developers.
 
--Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
+    -Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
 
 Solo Projects:
 -Scripts Added:
@@ -40,4 +40,4 @@ Solo Projects:
 
 Personal Projects:
 
--In Progress
+    -In Progress
