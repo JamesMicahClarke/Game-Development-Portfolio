@@ -18,7 +18,7 @@
 
 
 UCLASS()
-class SAGA_API AWeatherSystem : public AActor
+class ####_API AWeatherSystem : public AActor //This portion has been edited out
 {
 	GENERATED_BODY()
 
