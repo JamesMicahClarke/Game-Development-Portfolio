@@ -7,6 +7,8 @@ Team Projects:
 
     -Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
 
+    -Game Incubator: Contract job. Completed in 2 months.
+
 Solo Projects:
 -Scripts Added:
 
