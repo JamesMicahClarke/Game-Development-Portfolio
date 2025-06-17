@@ -44,4 +44,4 @@ Solo Projects:
 
 Personal Projects:
 
-    -In Progress
+    -Paused
