@@ -7,7 +7,7 @@ Team Projects:
 
     -Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
 
-    -Village of The Ages (VOTA): Started as a contract for 2 months. Continuing work as a Dev Lead.
+    -Village of The Ages (VOTA): Started as a contract for 2 months. Continuing work as a Dev Lead with an actively growing dev team.
 
     -REALTAR: Indienomicon XR Jam project. 48hr work window with a team of 6.
 
