@@ -3,9 +3,9 @@ Everything in this repository is a represemtation of the work I've done as a Gam
 
 Team Projects:
 
-    -Unseen: First acedemic team project. Completed in 3 months with 5 developers.
+    -Unseen: First team project. Completed in 3 months with 5 developers.
 
-    -Big Greasy: Second acedemic team project. Completed in 4 months with 6 developers.
+    -Big Greasy: Second team project. Completed in 4 months with 6 developers.
 
     -Village of The Ages (VOTA): Started as a contract for 2 months. Continuing work as a Dev Lead with an actively growing dev team.
 
